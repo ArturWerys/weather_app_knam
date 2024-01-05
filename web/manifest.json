@@ -1,6 +1,6 @@
 {
-    "name": "pogodaporadnik",
-    "short_name": "pogodaporadnik",
+    "name": "weather_app_knam",
+    "short_name": "weather_app_knam",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
